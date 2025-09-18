@@ -127,5 +127,3 @@ chown root:root /opt/compat/pg11-libs/pg11-compat-libs.tar.gz
 ```
 
 ---
-
-Laat me weten als dit in je volledige `README.md` moet worden geïntegreerd met de rest van de stappen zoals `barman recover`, `pg_upgrade`, `delete_old_cluster.sh`, enz.
