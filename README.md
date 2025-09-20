@@ -4,7 +4,7 @@ Dit document beschrijft de uitgevoerde stappen om een PostgreSQL 11.22 database 
 ---
 
 <p align="center">
-<img src="/postgres_11.png" alt="BTOP" width="120" height="120"/>  
+<img src="/postgres_11.png" alt="BTOP" width="240" height="240"/>  
 </p>
 
 ---
