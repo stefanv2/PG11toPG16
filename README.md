@@ -1,6 +1,14 @@
 # PostgreSQL 11 naar 16 Upgrade README
 
 Dit document beschrijft de uitgevoerde stappen om een PostgreSQL 11.22 database (PostgresPURE) succesvol te restoren en upgraden naar PostgreSQL 16 op een nieuwe omgeving. Het doel was om een productiesysteem (inclusief tablespaces) veilig over te zetten, te testen en klaar te maken voor productiegebruik.
+---
+
+<p align="center">
+<img src="/postgres_11.png" alt="BTOP" width="120" height="120"/>  
+</p>
+
+---
+
 
 ---
 
